@@ -37,6 +37,9 @@
  *
  * Advanced settings can be found in Configuration_adv.h
  */
+/**
+ * next todo - enable the BL Touch
+ */
 #define CONFIGURATION_H_VERSION 02000903
 
 //===========================================================================
